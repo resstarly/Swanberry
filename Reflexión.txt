@@ -1,0 +1,9 @@
+EXPERIMENTACIÓN
+1. Duración del hero: Probé con 1.2 segundos y la entrada se veía más lenta. Al final, lo dejé en 0.8 segundos para que el contenido aparezca más rápido.
+2. Distancia del título: Cambié la distancia a 60 px y el movimiento se notaba demasiado. Por eso, volví a 24 px para que se viera más natural.
+3. Suavizado: Probé un efecto elástico, pero sentí que se veía muy juguetón para el estilo de Swanberry. Por eso, dejé el power2.out, que se ve más suave.
+4. Aparición de tarjetas: Aumenté el tiempo entre tarjetas a 0.35 segundos, pero la sección tardaba mucho en aparecer. Lo dejé en 0.16 segundos para que todo se vea más fluido.
+
+PÁRRAFO DE REFLEXIÓN (5 líneas)
+
+La microanimación que más aporta a la experiencia de compra es la aparición escalonada de las tarjetas ya que deja ver los productos de manera ordenada sin mostrar todo el contenido de golpe. La duración breve también ya que permite percibir mejor la agilidad de la pagina y su rapidez a su vez que evita que el cliente se distraiga de la animación. Ambos en conjunto le ortogan al cliente una vista más tranquila y relajante para que pueda navegar en la pagina a gussto. 
